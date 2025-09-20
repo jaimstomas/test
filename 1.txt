@@ -1,4 +1,0 @@
-this is git practice 1.
-hello
-this is git practice 1.
-hello
